@@ -1,6 +1,14 @@
 # Welcome to StoryPath
 
-StoryPath is a tool for creating engaging and interactive tours, scavenger hunts, and adventures.
+StoryPath is a web-based React application developed as a tool for creating engaging and interactive tours, scavenger hunts, and adventures.
+Users can define projects, add geolocated or QR-triggered content, and configure flexible scoring systems. 
+
+Key features include:
+- Project and location CRUD functionality with React and RESTful API
+- Support for location triggers via GPS coordinates or QR code scanning
+- Interactive map display to enhance interactivity
+
+This project serves as the front-end foundation for the complementary mobile version built using React Native. 
 
 ## Dependencies
 
